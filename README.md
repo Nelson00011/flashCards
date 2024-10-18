@@ -1,9 +1,9 @@
-<h1 align="center">projectsFULLSTACK</h1>
+<h1 align="center">Dutch Flash Cards</h1>
 
 `main image`
 
 ## Description:
-Outline for general FULLSTACK DEVELOPMENT PROJECTs
+The React.js Application with a node.js backend with <database name here> is meant to help with learning foriegn alphabets, numerical counts and commmon words. 
 
 ## Technology Stack
 - **Frontend/Client:** React.js, HTML5, CSS, framework, etc.
@@ -95,6 +95,7 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
     - jwt Debugger [here](https://jwt.io/#debugger-io)
 - [bcrypt.js](https://www.npmjs.com/package/bcryptjs) part of password hasing for user Authentification. 
+- Potential German API to test [here](https://docs.lingvanex.com/reference/overview)
 
 
 #### **style:** 
@@ -119,5 +120,10 @@ backend
 frontend
 images
 screenShots [contains video link]
-
+TODO: 
+- GERMAN API: find German Alphabet API, scrape wiki? TBD? 
+- PAGE flashcard: (consider score card or ranking system: good, needs improvement, repeat card)
+- PAGE user: include a upload for photo or icon
+- PAGE ChatAPI; translate larger passage and store if possible
+- Page 
 -->
